@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">AppInformativo</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="three_fragment_label">Three Fragment</string>
+    <string name="next">Próximo</string>
+    <string name="previous">Anterior</string>
+    <string name="Inicio">Inicio</string>
+    <string name="texto_inical">Aqui você encontra a biografia de Ednaldo Pereira!</string>
+    <string name="sobre_ednaldo">Ednaldo "Brother" Pereira, o Mestre (nascido no distrito de Cachoeira dos Guedes, município de Guarabira, cidade assim... dita... do Estado da Paraíba) é... bom, ele simplesmente ééééééÉÉÉÉÉÉ!!! É aquele cara da música do Roberto Carlos e topa qualquer parada, aquele que alguns hereges já consideram como o messias, o grande ser mítico que naturalmente veio de uma dimensão alternativa para acabar com a corrupção do sistema e criar uma fraternidade, onde todos brilham como diamante, numa geração marcante.
+
+Produzindo músicas desde 2002 a.C., Ednaldo é considerado um ídolo até mesmo pela galera das trevas e do black metal, porque cantou "o ateísta é brother" em frente a uma igreja e outros monumentos religiosos. A maioria de suas músicas necessita de uma grande genialidade para ter o completo entendimento das letras com muitas mensagens para salvar a humanidade. É dito que o próprio Stephen Hawking tentou, por décadas a fio, compreender as músicas do Ednaldo até o dia de sua morte, e tudo que descobriu foi exatamente nada, mostrando que ainda não há um escolhido para entender essas letras corretamente.
+    Este grandioso ser, ainda hoje incompreendido pela humanidade, chamado comumente de Ednaldo Pereira pelos mais insolentes, simplesmente não pode ser definido em meros escritos. Ele é o próprio infinito. Tendo concluído seu auto-treinamento há milênios atrás, mestre Ednaldo unificou-se com a Força, ou melhor, a Força unificou-se a ele, portanto, ele é comparável a nomes como Yoda e o pensador horizontal. Segundo sua complexa filosofia filosófica descatastrófica, o bem maior chama-se "brother" e nunca é tarde para mudar o "mesclado" porque todos sempre têm "chance".
+    </string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="m_sicas_produzidas_por_ednaldo_pereira">Músicas produzidas por Ednaldo Pereira</string>
+    <string name="mesclado">Mesclado</string>
+    <string name="what_is_the_brother">What is the Brother</string>
+    <string name="who_is_the_sister">Who is the sister</string>
+    <string name="delegada_da_cidade">Delegada da cidade</string>
+    <string name="voc_n_o_vale_nada">Você não vale nada</string>
+    <string name="homens_que_entraram_no_vag_o">Homens que entraram no vagão</string>
+    <string name="se">Se</string>
+    <string name="banido">Banido</string>
+    <string name="fleig">Fleig</string>
+    <string name="e_muitos_outros_sucessos">E muitos outros sucessos!</string>
+    <string name="alguns_sucessos_de_ednaldo">Alguns sucessos de Ednaldo</string>
+    <string name="god_is_good">God is Good</string>
+    <string name="voc_n_o_vale_nada_voc_vale_tudo">Você não vale nada, você vale tudo</string>
+</resources>
